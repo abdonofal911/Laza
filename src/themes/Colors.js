@@ -1,0 +1,17 @@
+export default {
+  mainColor: '#9775FA',
+  lightMain: '#F6F2FF',
+  white: '#fff',
+  black: '#1E1E1E',
+  label: '#7C7C7C',
+  border: '#E2E2E2',
+  gray: '#F5F6FA',
+  lightOrange: 'rgba(248, 164, 76, 0.15)',
+  lightGreen: 'rgba(83, 177, 117, 0.15)',
+  green: 'rgba(83, 177, 117, 1)',
+  orange: 'rgba(248, 164, 76,1)',
+  red: 'red',
+  facebook: '#4267B2',
+  twitter: '#1DA1F2',
+  google: '#EA4335',
+};

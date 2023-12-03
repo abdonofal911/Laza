@@ -1,0 +1,105 @@
+{
+    "home": {
+        "home": "الرئيسيه",
+        "welcome": "مرحبا في لازا",
+        "search": "بحث",
+        "newArrival": "وصول جديد",
+        "viewAll": "عرض الكل",
+        "chooseBrands": "اختر القسم"
+    },
+    "wishlist": {
+        "wishlist": "قائمة الرغبات",
+        "items": "العناصر",
+        "inWishlist": "في قائمة الرغبات",
+        "inStock": "متوفر في المخزن"
+    },
+    "cart": {
+        "cart": "سلة التسوق",
+        "noItems": "لا يوجد أي عناصر في سلة التسوق حتى الآن",
+        "checkout": "الدفع",
+        "delivery": "عنوان التسليم",
+        "payment": "طريقة الدفع",
+        "orderInfo": "معلومات الطلب",
+        "subtotal": "الإجمالي الفرعي",
+        "shipping": "رسوم الشحن",
+        "total": "الإجمالي",
+        "tax": "ضريبة",
+        "confirmed": "تم تأكيد الطلب!",
+        "subConfirmed": "تم تأكيد طلبك، سنرسل لك رسالة تأكيد قريبًا.",
+        "goOrders": "الذهاب إلى الطلبات",
+        "continue": "مواصلة التسوق"
+    },
+    "drawer": {
+        "username": "اسم المستخدم",
+        "verified": "حساب موثق",
+        "orders": "طلبات",
+        "accountInfo": "معلومات الحساب",
+        "password": "كلمة المرور",
+        "order": "الطلب",
+        "cards": "بطاقاتي",
+        "wishlist": "قائمة الرغبات",
+        "settings": "الإعدادات",
+        "language": "تغيير اللغة",
+        "logout": "تسجيل خروج"
+    },
+    "genderSelect": {
+        "header": "ابدو جيد , اشعر جيد",
+        "subHeader": "ابتكر أسلوبك الفردي والفريد من نوعه واظهر بمظهر مذهل كل يوم.",
+        "women": "نساء",
+        "men": "رجال",
+        "skip": "تخطي"
+    },
+    "authType": {
+        "start": "هيا بنا نبدأ",
+        "facebook": "فيسبوك",
+        "twitter": "تويتر",
+        "google": "جوجل",
+        "haveAccount": "هل لديك حساب بالفعل؟",
+        "signin": "تسجيل الدخول",
+        "signup": "إنشاء حساب"
+    },
+    "productDetails": {
+        "price": "السعر",
+        "size": "المقاس",
+        "sizeGuide": "دليل المقاسات",
+        "description": "الوصف",
+        "reviews": "المراجعات",
+        "viewAll": "عرض الكل",
+        "readMore": "اقرأ المزيد..",
+        "totalPrice": "الإجمالي",
+        "withVat": "مع ضريبة القيمة المضافة",
+        "addReview": "أضف مراجعة"
+    },
+    "reviews": {
+        "addReview": "أضف مراجعة",
+        "theReviews": "المراجعات",
+        "reviews": "مراجعات",
+        "name": "الاسم",
+        "namePlaceholder": "اكتب اسمك",
+        "experience": "كيف كانت تجربتك ؟",
+        "experiencePlaceholder": "صف تجربتك"
+    },
+    "auth": {
+        "login": "تسجيل الدخول",
+        "signUp": "التسجيل",
+        "welcome": "مرحباً",
+        "please": "يرجى إدخال بياناتك للمتابعة",
+        "username": "اسم المستخدم",
+        "usernamePlaceholder": "ادخل اسم المستخدم...",
+        "email": "البريد الإلكتروني",
+        "emailPlaceholder": "ادخل البريد الإلكتروني",
+        "password": "كلمة المرور",
+        "passwordPlaceholder": "ادخل كلمة المرور",
+        "forgot": "نسيت كلمة المرور؟",
+        "rememberMe": "تذكرني",
+        "byConnecting": "من خلال ربط حسابك، تؤكد أنك توافق على",
+        "termsAndConditions": "الشروط والأحكام",
+        "emailError": "يرجى إدخال البريد الإلكتروني",
+        "validEmailError": "الرجاء إدخال بريد إلكتروني صحيح",
+        "passwordError": "الرجاء إدخال كلمة المرور",
+        "validPasswordError": "يجب أن تكون كلمة المرور أكثر من أو تساوي 8 أحرف",
+        "rgxPasswordError": "الحد الأدنى لعدد الأحرف هو ثمانية، ويجب أن تحتوي على حرف واحد على الأقل ورقم واحد على الأقل",
+        "usernameError": "الرجاء إدخال اسم المستخدم",
+        "validUsernameError": "يجب أن يحتوي اسم المستخدم على أكثر من 8 أحرف"
+    }
+}

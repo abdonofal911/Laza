@@ -1,0 +1,104 @@
+{
+    "home": {
+        "home": "Home",
+        "welcome": "Welcome to Laza.",
+        "search": "Search",
+        "newArrival": "New Arrival",
+        "viewAll": "View All",
+        "chooseBrands": "Choose Brands"
+    },
+    "wishlist": {
+        "wishlist": "wishlist",
+        "items": "Items",
+        "inWishlist": "in Wishlist",
+        "inStock": "Available in stock"
+    },
+    "cart": {
+        "cart": "Cart",
+        "noItems": "There is no Items in the cart yet",
+        "checkout": "Checkout",
+        "delivery": "Delivery Address",
+        "payment": "Payment Method",
+        "orderInfo": "Order Info",
+        "subtotal": "Subtotal",
+        "shipping": "Shipping fees",
+        "total": "Total",
+        "tax": "tax",
+        "confirmed": "Order Confirmed!",
+        "subConfirmed": "Your order has been confirmed, we will send you confirmation email shortly.",
+        "goOrders": "Go To Orders",
+        "continue": "Continue Shopping"
+    },
+    "drawer": {
+        "username": "UserName",
+        "verified": "Verified Account",
+        "orders": "orders",
+        "accountInfo": "Account Information",
+        "password": "Password",
+        "order": "Order",
+        "cards": "My Cards",
+        "wishlist": "Wishlist",
+        "settings": "Settings",
+        "language": "Change Language",
+        "logout": "Log out"
+    },
+    "genderSelect": {
+        "header": "Look Good, Feel Good",
+        "subHeader": "Create your individual & unique style and look amazing everyday.",
+        "women": "Women",
+        "men": "Men",
+        "skip": "Skip"
+    },
+    "authType": {
+        "start": "Let's Get Started",
+        "facebook": "Facebook",
+        "twitter": "Twitter",
+        "google": "Google",
+        "haveAccount": "Already have an account?",
+        "signin": "Signin",
+        "signup": "Create an Account"
+    },
+    "productDetails": {
+        "price": "Price",
+        "size": "Size",
+        "sizeGuide": "Size Guide",
+        "description": "Description",
+        "reviews": "Reviews",
+        "viewAll": "View All",
+        "readMore": "Read More..",
+        "totalPrice": "Total Price",
+        "withVat": "With Vat , SD"
+    },
+    "reviews": {
+        "addReview": "Add Review",
+        "theReviews": "Reviews",
+        "reviews": "Reviews",
+        "name": "Name",
+        "namePlaceholder": "Type Your Name",
+        "experience": "How was your experience ?",
+        "experiencePlaceholder": "Describe your experience"
+    },
+    "auth": {
+        "login": "Login",
+        "signUp": "Sign Up",
+        "welcome": "welcome",
+        "please": "Please enter your data to continue",
+        "username": "Username",
+        "usernamePlaceholder": "Enter your Username...",
+        "email": "Email",
+        "emailPlaceholder": "Enter your Email",
+        "password": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "forgot": "Forgot Password ?",
+        "rememberMe": "Remember me",
+        "byConnecting": "By connecting your account confirm that you agree with our",
+        "termsAndConditions": "Term and Condition",
+        "emailError": "please enter email",
+        "validEmailError": "please enter a valid email",
+        "passwordError": "please enter password",
+        "validPasswordError": "password should be more than or equal 8 characters",
+        "rgxPasswordError": "Minimum eight characters, at least one letter and one number",
+        "usernameError": "please enter username",
+        "validUsernameError": "username has to be more than 8 letters"
+    }
+}
