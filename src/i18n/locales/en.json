@@ -11,7 +11,8 @@
         "wishlist": "wishlist",
         "items": "Items",
         "inWishlist": "in Wishlist",
-        "inStock": "Available in stock"
+        "inStock": "Available in stock",
+        "sort": "sort"
     },
     "cart": {
         "cart": "Cart",

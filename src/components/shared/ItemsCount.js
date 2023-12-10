@@ -18,7 +18,7 @@ const ItemsCount = ({sort, count, subTitle}) => {
       {sort && (
         <View style={styles.sortContainer}>
           <MaterialIcons name="sort" size={18} />
-          <Text style={styles.sortText}>Sort</Text>
+          <Text style={styles.sortText}>{i18n.t('wishlist:sort')}</Text>
         </View>
       )}
     </View>
@@ -53,6 +53,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: scale(10),
     borderRadius: vScale(10),
     textAlign: 'left',
+    alignItems: 'center',
   },
   sortText: {
     marginStart: scale(1),
