@@ -25,4 +25,4 @@ Features : -React-Hooks -Redux-toolkit -React-Navigation -Custom-Components -axi
 
 ## Screen Record
 
-[![Watch the video](https://img.youtube.com/vi/aduDKjqvu1A/0.jpg)](https://www.youtube.com/watch?v=aduDKjqvu1A)
+[![Watch the video](https://img.youtube.com/vi/Ye2uNT_ikkc/0.jpg)](https://www.youtube.com/watch?v=Ye2uNT_ikkc)
