@@ -1,3 +1,4 @@
+
 # Laza
 
 ## Description
@@ -25,4 +26,5 @@ Features : -React-Hooks -Redux-toolkit -React-Navigation -Custom-Components -axi
 
 ## Screen Record
 
-[![Watch the video](https://img.youtube.com/vi/Ye2uNT_ikkc/0.jpg)](https://www.youtube.com/watch?v=Ye2uNT_ikkc)
+https://github.com/abdonofal911/Laza/assets/49812821/7fdc2fa8-9000-42b0-84a5-abc6e10bf165
+
