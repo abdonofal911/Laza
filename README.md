@@ -22,3 +22,7 @@ Features : -React-Hooks -Redux-toolkit -React-Navigation -Custom-Components -axi
 <img src="./src/screenShots/emptyCart.png" width="400" alt="Screenshot 13">
 <img src="./src/screenShots/orderSucces.png" width="400" alt="Screenshot 14">
 <img src="./src/screenShots/orderSucces.png" width="400" alt="Screenshot 15">
+
+## Screen Record 
+
+[Laza on Youtube]([https://www.yourlink.com](https://youtu.be/aduDKjqvu1A)https://youtu.be/aduDKjqvu1A)
