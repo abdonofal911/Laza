@@ -22,3 +22,7 @@ Features : -React-Hooks -Redux-toolkit -React-Navigation -Custom-Components -axi
 <img src="./src/screenShots/emptyCart.png" width="400" alt="Screenshot 13">
 <img src="./src/screenShots/orderSucces.png" width="400" alt="Screenshot 14">
 <img src="./src/screenShots/orderSucces.png" width="400" alt="Screenshot 15">
+ 
+ ##Screen Record
+
+[![Watch the video](https://img.youtube.com/vi/aduDKjqvu1A/0.jpg)](https://www.youtube.com/watch?v=aduDKjqvu1A)
